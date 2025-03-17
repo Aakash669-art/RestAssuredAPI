@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 public class DeleteEx_05 {
 
     @Test
-    public void deleteRequestCheck()
+    public void deleteeRequestCheck()
     {
         String token="be02ed2bcf970c4";
         String bookingId="39481";
