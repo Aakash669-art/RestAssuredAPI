@@ -12,7 +12,7 @@ public class DeleteEx_05 {
     public void deleteRequestCheck()
     {
         String token="be02ed2bcf970c4";
-        String bookingId="3948";
+        String bookingId="39481";
 
 
         RequestSpecification rs;
